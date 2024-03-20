@@ -18,7 +18,7 @@
         <label for="">Confirmation du mot de passe :</label>
         <input type="password" name="mdp2" class="mdp2">
         <input type="submit" value="Inscription">
-        <p class="link">Vous avez un compte ? <a href="index.html">Se connecter</a></p>
+        <p class="link">Vous avez un compte ? <a href="index.php">Se connecter</a></p>
     </form>
 
     <!-- Relié notre page à notre fichier javaScript -->

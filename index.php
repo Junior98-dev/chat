@@ -18,7 +18,7 @@
         <label for="">Mot de passe :</label>
         <input type="password" name="mdp1">
         <input type="submit" value="Connexion">
-        <p class="link">Vous n'avez pas de compte ? <a href="inscription.html">Créer un compte</a></p>
+        <p class="link">Vous n'avez pas de compte ? <a href="inscription.php">Créer un compte</a></p>
     </form>
 
 </body>
