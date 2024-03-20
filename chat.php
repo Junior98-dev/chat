@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="chat"> 
-        <div class="button-mail">
+        <div class="button-email">
             <span>Junior@gmail.com</span>
             <a href="" class="deconnexion_btn">Déconnexion</a>
         </div>
@@ -25,8 +25,14 @@
                 <span>junior@gmail.com</span>
                 <p>Oui ça va merci</p>
                 <p class="date">24-03-20 00:25</p>
-            </div>
+            </div>  
         </div>
+        <!-- Fin nmessage -->
+
+        <form action="" class="send_message" method="post">
+            <textarea name="message" id="" cols="30" rows="2" placeholder="Votre message"></textarea>
+            <input type="submit" value="Envoyer" name="send">
+        </form>
     </div>
 </body>
 </html>
